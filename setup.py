@@ -13,7 +13,7 @@ setup(
     description="Calculates a Fibonacci number",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/maxwellflitton/flitton-fib-py",
+    url="https://github.com/Maran9/flitton-fib-py/flitton_fib_py",
     install_requires=[],
     packages=find_packages(exclude=("tests",)),
     classifiers=[
